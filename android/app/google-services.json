@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "4420527121",
+    "project_id": "shopme-bdb36",
+    "storage_bucket": "shopme-bdb36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4420527121:android:a462c848cf028e7e977db0",
+        "android_client_info": {
+          "package_name": "ahmedtohamy.shopme.prod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9qiXBCXT922GqAH_lim1Yo7lp4bUhpGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4420527121:android:a0e9e230003a688c977db0",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9qiXBCXT922GqAH_lim1Yo7lp4bUhpGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
